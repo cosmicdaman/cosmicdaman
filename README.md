@@ -1,11 +1,12 @@
 # heya!
 **im cosmic.**
 
-<br>
 i program in C, JS and C#.
-i am working on my own operating system called mangoOS.
-i like azumanga daioh shitposting
 <br>
+i am working on my own operating system called mangoOS.
+<br>
+i like azumanga daioh shitposting
+
 
 <picture>
   <source
