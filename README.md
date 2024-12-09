@@ -5,7 +5,6 @@ i program in C, Assembly and C#. (with a hint of webdev)
 <br>
 i am working on my own operating system called mangoOS.
 <br>
-i like azumanga daioh shitposting
 
 
 <picture>
