@@ -1,7 +1,7 @@
 # heya!
 **im cosmic.**
 
-i program in C, Assembly and C#. (with a hint of webdev)
+i program in C, x86 & x64 Assembly and C#. (with a hint of webdev)
 <br>
 i am working on my own operating system called mangoOS.
 <br>
