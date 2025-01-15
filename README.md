@@ -1,4 +1,3 @@
-<center>
 # heya!
 **im cosmic.**
 
@@ -33,4 +32,3 @@ i am working on my own operating system called mangoOS.
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicdaman&layout=compact" />
 </picture>
-</center>
